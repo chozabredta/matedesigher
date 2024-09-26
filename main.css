@@ -1,0 +1,34 @@
+* {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+        list-style: none;
+        box-sizing: border-box;
+    }
+    .container{
+        max-width: 100%;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .cl1{
+        background-color: black;
+        color: white;
+        display: flex;
+            
+    }
+    
+    ul{
+        color: white;
+        display: flex;
+        justify-content: end;
+        gap: 20px;
+        padding: 0;
+    }
+    li{
+        color: white;
+    }
+    h1{
+        text-align: center;
+        font-size: 88px;
+        margin: 60px;
+    }
